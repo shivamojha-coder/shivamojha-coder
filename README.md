@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack AI Developer — Backend Engineering & LLM Applications</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shiivam-ojha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mrsnewzebral84@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://shiivamojha.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -17,16 +17,17 @@ I build AI-powered web applications using modern full-stack technologies. My pri
 
 ## 🚀 Featured Projects
 
-### [VentureAI](https://github.com/YOUR-REPO)
+### [VentureAI (AI Startup Evaluation Platform)](https://github.com/shivamojha-coder/AI-Startup-Evaluation-Platform)
 AI-powered startup evaluation platform that analyzes startup pitch decks using LLMs and RAG, automating investor due diligence with a multi-agent architecture.
 **Tech:** React • FastAPI • Supabase • LangChain • Gemini
 
-### [Student Performance Prediction](https://github.com/YOUR-REPO)
+### [Student Performance Prediction](https://github.com/shivamojha-coder/student_performance_prediction)
 Machine learning application that predicts student performance using classification models.
 **Tech:** Python • Scikit-learn • Pandas • NumPy
 
-### [Portfolio Website](https://github.com/YOUR-REPO)
+### [Portfolio Website](https://github.com/shivamojha-coder/portfolio)
 Modern developer portfolio built with React and Tailwind CSS.
+🔗 Live: [shiivamojha.me](https://shiivamojha.me/)
 
 ---
 
@@ -45,9 +46,13 @@ Modern developer portfolio built with React and Tailwind CSS.
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
@@ -61,9 +66,10 @@ Modern developer portfolio built with React and Tailwind CSS.
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-**Tools**
+**Tools & Deployment**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -72,7 +78,7 @@ Modern developer portfolio built with React and Tailwind CSS.
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamojha-coder&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamojha-coder&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
   <img src="https://streak-stats.demolab.com?user=shivamojha-coder&theme=tokyonight" height="165"/>
 </p>
 <p align="left">
@@ -83,4 +89,4 @@ Modern developer portfolio built with React and Tailwind CSS.
 
 ## 🌐 Connect With Me
 
-[Portfolio](https://YOUR-PORTFOLIO.com) • [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) • [Email](mailto:YOUR-EMAIL)
+[Portfolio](https://shiivamojha.me/) • [LinkedIn](https://www.linkedin.com/in/shiivam-ojha/) • [Email](mailto:mrsnewzebral84@gmail.com)
